@@ -1,0 +1,16 @@
+{
+  "tenis": [
+    {
+      "nome": "Air force",
+      "cor": "Branco"
+    },
+    {
+      "nome": "Air max",
+      "cor": "preto"
+    },
+    {
+      "nome": "Vans",
+      "cor": "Preto"
+    }
+  ]
+}
